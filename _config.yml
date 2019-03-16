@@ -39,7 +39,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "mailto:thomasjballin@gmail.com"
 c4sponsorsUrl: "/site"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -58,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "BSides <typeout> 2019"
 eventDate: "Coming Soon, 2019"
-typeoutTextValues: '"", "InfoSec", "Cheltenham", "Midlands", "UK"'
+typeoutTextValues: '"", "InfoSec", "Cheltenham", "Midlands", "Security"'
 typeoutFallback: "Cheltenham"
 heroButtons:
  - {link: "mailto:thomasjballin@gmail.com", text: "Become a speaker"}
@@ -79,7 +78,7 @@ statisticBlock:
 
 # Latest News Block
 latestNewsTitle: "Latest news"
- - {title: "Conference", text: "Bare with us while we get everything set up!" }
+ - {title: "Conference", image: "conference.jpg", text: "Bare with us while we get everything set up!" }
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -115,8 +114,8 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "BSidesChelt"
+twitterFeed: "https://twitter.com/bsideschelt"
 
 # Partners Block
 organizersTitle: "Organizers"
