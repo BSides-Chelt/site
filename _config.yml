@@ -10,7 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BSidesChelt"
+title: "BSides Cheltenham"
+shortTitle: "BSidesChelt"
 email: "thomasjballin@gmail.com"
 description: "BSides Cheltenham 2019"
 baseurl: "/site"
