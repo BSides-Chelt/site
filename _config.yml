@@ -79,8 +79,8 @@ statisticBlock:
 # - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
-# Latest News Block
-#latestNewsTitle: "Latest news"
+# # Latest News Block
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 #rockstarSpeakersImage: "rockstar-speakers.jpg"
