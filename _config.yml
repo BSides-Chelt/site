@@ -13,11 +13,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "BSides Cheltenham 2019"
 email: "thomasjballin@gmail.com"
 description: "BSides is a set of InfoSec conferences all around the world"
-baseurl: "/site"
-url: "https://bsides-chelt.github.io"
+baseurl: "/"
+url: "https://bsideschelt.org.uk"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "bsides-chelt.github.io"
+googleAnalyticsSiteUrl: "bsideschelt.org.uk"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
