@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "BSides Cheltenham 2019"
-email: "thomasjballin@gmail.com"
+email: "info@bsideschelt.org.uk"
 description: "BSides is a set of InfoSec conferences all around the world"
 baseurl: "/"
 url: "https://bsideschelt.org.uk"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "Thomas"
 organizerAlternateName: "Thomas Ballin"
 organizerDescription: "Security Consultant at Secarma Ltd."
-organizerEmail: "thomasjballin@gmail.com"
+organizerEmail: "thomas@bsideschelt.org.uk"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://twitter.com/0x4a757a"
 
@@ -60,8 +60,8 @@ heroTitle: "BSides <typeout> 2019"
 eventDate: "Coming soon, 2019"
 typeoutTextValues: '"", "Security", "Cheltenham", "Conference", "InfoSec"'
 typeoutFallback: "Cheltenham"
-#heroButtons:
-# - {link: "mailto:thomasjballin@gmail.com", text: "Become a speaker"}
+heroButtons:
+ - {link: "mailto:papers@bsideschelt.org.uk", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
