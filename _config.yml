@@ -57,7 +57,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "BSides <typeout> 2019"
-eventDate: "Coming later, 2019"
+eventDate: "Coming soon, 2019"
 typeoutTextValues: '"", "Security", "Cheltenham", "Conference", "InfoSec"'
 typeoutFallback: "Cheltenham"
 #heroButtons:
@@ -69,7 +69,7 @@ aboutTitle: "About BSides Cheltenham"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Part of the biggest chain of InfoSec related event in the world, carefully crafted for you by BSides community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "In Development", image: "hackathon.jpg", text: "Bare with us while we get things off the ground!" }
+ - {title: "Community", image: "hackathon.jpg", text: "Connecting likeminded individuals and creating something special!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
