@@ -183,7 +183,8 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:thomasjballin@gmail.com", text: "Thomas Ballin"}
+   - {link: "mailto:sponsors@bsideschelt.org.uk", text: "Sponsorship Oportunities"}
+   - {link: "mailto:info@bsideschelt.org.uk", text: "General Enquiries"}
 
 # Blog
 blogTitle: "Latest news"
