@@ -1,7 +1,7 @@
 # Plugins
 gems:
-- jekyll-sitemap
-safe: false
+#- jekyll-sitemap
+safe: true
 
 # Build Settings
 markdown: kramdown
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "Thomas"
 organizerAlternateName: "Thomas Ballin"
-organizerDescription: "Security Consultant at Secarma Ltd."
+organizerDescription: "Director of BSides Cheltenham"
 organizerEmail: "thomas@bsideschelt.org.uk"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://twitter.com/0x4a757a"
@@ -245,7 +245,7 @@ directionDetailsWideCards:
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
