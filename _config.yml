@@ -57,7 +57,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "BSides <typeout> 2019"
-eventDate: "Coming soon, 2019"
+eventDate: "Coming December, 2019"
 typeoutTextValues: '"", "Security", "Cheltenham", "Conference", "InfoSec"'
 typeoutFallback: "Cheltenham"
 heroButtons:
