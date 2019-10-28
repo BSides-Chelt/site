@@ -120,9 +120,9 @@ twitterHashTag: "BSidesCheltenham"
 twitterFeed: "https://twitter.com/bsideschelt"
 
 # Partners Block
-organizersTitle: "Organizers"
+# organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
