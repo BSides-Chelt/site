@@ -2,7 +2,7 @@
   group: "General Sponsor"
   elements: 
     - {name: "BAE Systems", description: "BAE Systems", link: "https://www.baesystems.com/en/home", imageUrl: "bae.svg"}
-#    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "QinetiQ", description: "QinetiQ", link: "https://www.qinetiq.com/", imageUrl: "qinetiq.svg"}
 - 
 #  group: "With support of"
 #  elements: 
