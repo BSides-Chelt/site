@@ -3,6 +3,7 @@
   elements: 
     - {name: "BAE Systems", description: "BAE Systems", link: "https://www.baesystems.com/en/home", imageUrl: "bae.svg"}
     - {name: "QinetiQ", description: "QinetiQ", link: "https://www.qinetiq.com/", imageUrl: "qinetiq.svg"}
+    - {name: "Surevine", description: "Surevine", link: "https://www.surevine.com/", imageUrl: "surevine.svg"}
 - 
   group: "With support of"
   elements: 
