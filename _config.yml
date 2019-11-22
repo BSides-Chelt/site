@@ -61,14 +61,14 @@ eventDate: "5th December, 2019"
 typeoutTextValues: '"", "Security", "Cheltenham", "Conference", "InfoSec"'
 typeoutFallback: "Cheltenham"
 heroButtons:
- - {link: "mailto:papers@bsideschelt.org.uk", text: "Become a speaker"}
+# - {link: "mailto:papers@bsideschelt.org.uk", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BSides Cheltenham"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Part of the biggest chain of InfoSec related event in the world, carefully crafted for you by BSides community! Awesome speakers and lots of fun!" }
- - {title: "CtF", image: "workshop.jpg", text: "An evening CtF put on By BAE the night before" }
+ - {title: "Capture the Flag", image: "workshop.jpg", text: "An CtF put on by BAE Systems the night before the conference" }
  - {title: "Community", image: "hackathon.jpg", text: "Connecting likeminded individuals for the betterment of all involved" }
 
 # Statistic Block
