@@ -3,7 +3,7 @@
   dateReadable: "December 05"
   tracks: 
     - {title: "Presentations", color: "#90be4e"}
-    - {title: "Networking", color: "#90be4e"}
+    - {title: "Syndicate Room", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "09:20",
@@ -23,17 +23,17 @@
     - {
     	startTime: "10:30",
     	endTime: "11:00",
-    	sessionIds: [004]
+    	sessionIds: [004,017]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:30",
-    	sessionIds: [005]
+    	sessionIds: [005,017]
     }
     - {
     	startTime: "11:30",
     	endTime: "12:30",
-    	sessionIds: [006]
+    	sessionIds: [006,017]
     }
     - {
     	startTime: "12:30",
@@ -48,12 +48,12 @@
     - {
     	startTime: "13:45",
     	endTime: "14:15",
-    	sessionIds: [009]
+    	sessionIds: [009,017]
     }
     - {
     	startTime: "14:15",
     	endTime: "14:35",
-    	sessionIds: [010]
+    	sessionIds: [010,017]
     }
     - {
     	startTime: "14:35",
@@ -63,17 +63,17 @@
     - {
     	startTime: "14:50",
     	endTime: "15:20",
-    	sessionIds: [012]
+    	sessionIds: [012,017]
     }
     - {
     	startTime: "15:20",
     	endTime: "16:05",
-    	sessionIds: [013]
+    	sessionIds: [013,017]
     }
     - {
     	startTime: "16:05",
     	endTime: "16:50",
-    	sessionIds: [014]
+    	sessionIds: [014,017]
     }
     - {
     	startTime: "16:50",
