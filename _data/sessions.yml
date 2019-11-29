@@ -1,59 +1,88 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Registration"
+  description: "Morning registration, please ensure that you remember your Ticket!"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Opening Address"
+  description: "A few words from the organisers to kick things off!"
+  speakers: [1, 2]
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Keynote Presentation"
+  speakers: [3]
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Introduction to Cyber Threat Intelligence"
+  description: ""CTI (Cyber Threat Intelligence) is deemed by many as nothing more than a marketing buzzword, a role typically given to interns and junior analysts… but there are claims a CTI capability can act as a force multiplier to make SOCs up to 10x more effective and help to predict the future of Threats.
+This presentation is aimed at those with little to no knowledge of CTI. Whether you’re an entry level SOC analyst or seasoned Malware Reverse Engineer, this workshop aims to introduce the fusion of two practices and offer a glimpse of it’s potential; one that is way beyond a google search and reporting the news. So don’t forget your tuxedo and Martini!""
+  speakers: [4]
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Profiling the Attacker: Using Natural Language Processing to Predict Crime"
+  description: ""What does Minority Report, Black Mirror, and 1984 all have in common? Well, turn up to the talk to find out. 
+On a day to day basis we countlessly write notes, send messages and respond to emails. The question is: what does what we write actually show about us, and how can we use the meaning behind these pieces of text to predict crimes and attacks. This talk delves into just this - how machine learning, and specifically natural language processing and sentiment analysis, can be used to predict crime and security attacks. This, of course, comes hand in hand with talking about predictive policing approaches, biases in predictive policing, and how natural language processing can be used to automate this whole process.""
+  speakers: [5]
+-
+  id: 006
+  title: "Kerberos delegation attack how to abuse machine account to gain local admin privilege."
+  description: "Deep dive into kerberos authentication, delegations, combining windows NTLM relay, capture encrypted machine account credentials relay to domain controller and remote code execution on domain joined servers. The attack demonstrate stealth post exploitation techniques, issue and reuse the machine accounts TGT tickets and impersonate a higher privilege user e.g administrator  
+Abusing the S4U2SELF and S4U2Proxy kerberos delegation concept."
+  speakers: [6]
+-
+  id: 007
+  title: "Lunch"
+  description: "Food and refreshments will be provided"
+-
+  id: 008
+  title: "The future of Cyber in Cheltenham"
+  description: "A panel discussion about what the future of Information and Cyber Security in Cheltenham might look like"
+-
+  id: 009
+  title: "What is threat simulation and how to it for free*"
+  description: "How do you quickly test specific security controls after a configuration change or new hardware install? That the new EDR is correctly configured and delivers what the vendor promised? Or measure your defensive coverage against a specific threat actor described using the Mitre ATT&CK matrix? You could commission a pentest for all these use cases - but this quickly would become very expensive, and potentially tedious for the tester. Threat / adversary simulation tools let you quickly test specific attacker techniques, in a repeatable manner to answer these questions.
+This first part of this talk will provide an overview of what threat simulation is, and an overview and comparison of free and open source tools that allow you to conduct it. The final part will concentrate on a basic methodology of how to conduct threat simulation, based around your maturity and problem you want to solve.
+*Free is relative - you need people and time!"
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 010
+  title: "The Art of the Scam"
+  description: "A non-technical talk based on first-hand experience of scamming while living and working in West Africa. Graeme will cover how and why scams occur and why bureaucracy in the UK comes to the rescue to prevent it from happening to us (as much)."
+  speakers: [8]
+-
+  id: 011
+  title: "Afternoon Networking"
+  description: "A chance for a break and to grab a quick drink"
+-
+  id: 012
+  title: "We take your privacy and security seriously - an analysis of Norsk Hydro's cyber incident communications"
+  description: "In March 2019 one of the world’s largest aluminium producers, Norsk Hydro, experienced a ransomware attack.  Throughout their incident response they communicated in a clear and honest manner that received almost immediate praise from cyber security commentators. 
+How did Norsk Hydro manage to do this so well when so many other companies have failed spectacularly?  What can other organisations learn from Norsk Hydro’s response so that they can make effective communication plans?  This talk will look at how Norsk Hydro communicated and try and identify lessons from their experience."
+  speakers: [9]
+-
+  id: 013
+  title: "Hunting pastebin for fun and for profit"
+  description: "From a security analytics and Threat Intelligence perspective, Pastebin is a treasure trove of information. All content that is uploaded to Pastebin and not explicitly set to private (which requires an account) is listed and can be viewed by anyone.
+ 
+
+Hackers and script kiddies are quick to push their warez on to the site for the world to see and developers/network engineers are prone to accidentally leaking internal configurations and credentials. Using Pastehunter you can monitor this data in near-realtime and create custom rules that can alert you if any matching data is uplaoded. "
+  speakers: [10]
+-
+  id: 014
+  title: "Cybercrime and targeted email-based attacks – dissecting exploitation of Equation Editor during 2019"
+  description: "Office365 scans over 400 billion emails every month. Microsoft Threat Intelligence Center (MSTIC) contributes to Office365 Advanced Threat Protection’s detection capability. But our work does not stop there: behind the scenes MSTIC analysts also dig into campaigns that we have blocked, increasing our understanding of who the attackers are and how their techniques are evolving over time. In this technical presentation we take a deep dive into some of the most popular exploits used in email-based attacks, namely exploitation of several Equation Editor vulnerabilities.
+We will dissect multiple vulnerability variations observed over time; we will show the evolution and increased sophistication of the shell code, the (weak) encryption schemes employed and use of steganography techniques in the later stage payloads. Finally we will share our insights into the nature of the different attackers behind the campaigns seen during 2019 based on Microsoft’s global aperture, from commodity/crimeware to highly targeted ones by known APT groups"
+  speakers: [11]
+-
+  id: 015
+  title: "Closing Address"
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  speakers: [1, 2]
+-
+  id: 016
+  title: "Evening Networking"
+  description: "Join us for drinks, food, and a chance to quiz our speakers on anything you might not have got a chance to ask during the day!"
+-
+  id: 017
+  title: "Break Area"
+  description: "Take a break from the talks to relax in our syndicate room."
