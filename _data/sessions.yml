@@ -1,8 +1,6 @@
 -
   id: 001
   title: "Registration"
-  place: "Hall"
-  service: true
   description: "Morning registration, please ensure that you remember your Ticket!"
 -
   id: 002
@@ -16,14 +14,14 @@
 -
   id: 004
   title: "Introduction to Cyber Threat Intelligence"
-  description: ""CTI (Cyber Threat Intelligence) is deemed by many as nothing more than a marketing buzzword, a role typically given to interns and junior analysts… but there are claims a CTI capability can act as a force multiplier to make SOCs up to 10x more effective and help to predict the future of Threats.
-This presentation is aimed at those with little to no knowledge of CTI. Whether you’re an entry level SOC analyst or seasoned Malware Reverse Engineer, this workshop aims to introduce the fusion of two practices and offer a glimpse of it’s potential; one that is way beyond a google search and reporting the news. So don’t forget your tuxedo and Martini!""
+  description: "CTI (Cyber Threat Intelligence) is deemed by many as nothing more than a marketing buzzword, a role typically given to interns and junior analysts… but there are claims a CTI capability can act as a force multiplier to make SOCs up to 10x more effective and help to predict the future of Threats.
+This presentation is aimed at those with little to no knowledge of CTI. Whether you’re an entry level SOC analyst or seasoned Malware Reverse Engineer, this workshop aims to introduce the fusion of two practices and offer a glimpse of it’s potential; one that is way beyond a google search and reporting the news. So don’t forget your tuxedo and Martini!"
   speakers: [4]
 -
   id: 005
   title: "Profiling the Attacker: Using Natural Language Processing to Predict Crime"
-  description: ""What does Minority Report, Black Mirror, and 1984 all have in common? Well, turn up to the talk to find out. 
-On a day to day basis we countlessly write notes, send messages and respond to emails. The question is: what does what we write actually show about us, and how can we use the meaning behind these pieces of text to predict crimes and attacks. This talk delves into just this - how machine learning, and specifically natural language processing and sentiment analysis, can be used to predict crime and security attacks. This, of course, comes hand in hand with talking about predictive policing approaches, biases in predictive policing, and how natural language processing can be used to automate this whole process.""
+  description: "What does Minority Report, Black Mirror, and 1984 all have in common? Well, turn up to the talk to find out. 
+On a day to day basis we countlessly write notes, send messages and respond to emails. The question is: what does what we write actually show about us, and how can we use the meaning behind these pieces of text to predict crimes and attacks. This talk delves into just this - how machine learning, and specifically natural language processing and sentiment analysis, can be used to predict crime and security attacks. This, of course, comes hand in hand with talking about predictive policing approaches, biases in predictive policing, and how natural language processing can be used to automate this whole process."
   speakers: [5]
 -
   id: 006
@@ -65,8 +63,6 @@ How did Norsk Hydro manage to do this so well when so many other companies have 
   id: 013
   title: "Hunting pastebin for fun and for profit"
   description: "From a security analytics and Threat Intelligence perspective, Pastebin is a treasure trove of information. All content that is uploaded to Pastebin and not explicitly set to private (which requires an account) is listed and can be viewed by anyone.
- 
-
 Hackers and script kiddies are quick to push their warez on to the site for the world to see and developers/network engineers are prone to accidentally leaking internal configurations and credentials. Using Pastehunter you can monitor this data in near-realtime and create custom rules that can alert you if any matching data is uplaoded. "
   speakers: [10]
 -
