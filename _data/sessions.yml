@@ -1,6 +1,8 @@
 -
   id: 001
   title: "Registration"
+  place: "Hall"
+  service: true
   description: "Morning registration, please ensure that you remember your Ticket!"
 -
   id: 002
