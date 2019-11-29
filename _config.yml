@@ -76,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "From the InfoSec community"}
  - {count: "5", specialCharacter: "+", info: "hours", detail: "of discussions and presentations "}
-# - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "10", info: "Presentations", detail: "Covering a range of fascinating topics"}
 # - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment"}
 
 # Latest News Block
