@@ -15,6 +15,7 @@
   id: 3
   name: "Mike"
   surname: "Jones"
+  company: "Krypteiasec"
 - 
   id: 4
   name: "Matthew"
