@@ -9,9 +9,8 @@
   speakers: [1, 2]
 -
   id: 003
-  title: "Keynote: Black to white and beyond"
-  description: "What is it like to be investigated and pursued for cybercrime and being a hacktivist post 9/11? 
-  In a growing threat landscape what is the silver bullet. Cybersecurity is not a tech problem it's a people problem."
+  title: "Keynote"
+  description: "Why attitudes to people in cyber security need burning down and rebuilding from the ground up"
   speakers: [3]
 -
   id: 004
