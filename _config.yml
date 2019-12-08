@@ -61,7 +61,7 @@ eventDate: "5th December, 2019"
 typeoutTextValues: '"", "Security", "Cheltenham", "Conference", "InfoSec"'
 typeoutFallback: "Cheltenham"
 heroButtons:
-# - {link: "/schedule/", text: "Schedule"}
+ - {link: "https://forms.gle/dSJUmR6gdyY8Bgep8", text: "Give Feedback"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
