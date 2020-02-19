@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BSides Cheltenham 2019"
+title: "BSides Cheltenham"
 email: "info@bsideschelt.org.uk"
 description: "BSides is a set of InfoSec conferences all around the world"
 baseurl: "/"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://twitter.com/0x4a757a"
 
 # Head
-metaKeywords: "event, conference, bsides, bsideschelt, cheltenham, infosec, security, 2019"
+metaKeywords: "event, conference, bsides, bsideschelt, cheltenham, infosec, security"
 twitterAccount: "@BSidesChelt"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,27 +56,27 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "BSides <typeout> 2019"
-eventDate: "5th December, 2019"
+heroTitle: "BSides <typeout>"
+#eventDate: "5th December, 2019"
 typeoutTextValues: '"", "Security", "Cheltenham", "Conference", "InfoSec"'
 typeoutFallback: "Cheltenham"
 heroButtons:
- - {link: "https://forms.gle/dSJUmR6gdyY8Bgep8", text: "Give Feedback"}
+ - {link: "https://www.youtube.com/playlist?list=PLSbuZiqLqtL9PNTkOR_YSgyV6_QUbuwN7", text: "Watch Presentations"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About BSides Cheltenham"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Part of the biggest chain of InfoSec related event in the world, carefully crafted for you by BSides community! Awesome speakers and lots of fun!" }
- - {title: "Capture the Flag", image: "workshop.jpg", text: "An CtF put on by BAE Systems the night before the conference" }
+# - {title: "Capture the Flag", image: "workshop.jpg", text: "An CtF put on by BAE Systems the night before the conference" }
  - {title: "Community", image: "hackathon.jpg", text: "Connecting likeminded individuals for the betterment of all involved" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "From the InfoSec community"}
- - {count: "5", specialCharacter: "+", info: "hours", detail: "of discussions and presentations "}
- - {count: "10", info: "Presentations", detail: "Covering a range of fascinating topics"}
+#statisticBlockImage: "statistic.jpg"
+#statisticBlock:
+# - {count: "100", specialCharacter: "+", info: "attendees", detail: "From the InfoSec community"}
+# - {count: "5", specialCharacter: "+", info: "hours", detail: "of discussions and presentations "}
+# - {count: "10", info: "Presentations", detail: "Covering a range of fascinating topics"}
 # - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment"}
 
 # Latest News Block
